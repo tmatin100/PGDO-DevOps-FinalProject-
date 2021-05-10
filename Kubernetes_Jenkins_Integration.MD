@@ -49,7 +49,7 @@ Save and run the job.
       - *SSH Publishers*  
 	       - Exec command: 
                 ```sh 
-                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-valaxy-deployment.yml;
-                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-valaxy-service.yml;
+                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-tmatin-deployment.yml;
+                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-tmatin-service.yml;
                 ```
 Save and run the job.

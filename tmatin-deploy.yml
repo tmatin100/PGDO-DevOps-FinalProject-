@@ -16,7 +16,7 @@ spec:
   template:
     metadata:
       labels:
-        app: valaxy-devops-project
+        app: tmatin-devops-project
     spec:
       containers:
       - name: tmatin-devops-project
